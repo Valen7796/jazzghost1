@@ -1,0 +1,88 @@
+body{
+text-align: center;
+margin: 0px;
+padding-top: 400px;
+
+}
+#Welcome{
+background-image: linear-gradient(rgba(8, 59, 228, 0.863),rgb(85, 157, 240));
+position: absolute;
+bottom: 0px;
+width: 100%;
+height:100%;
+display: table;
+}
+#foto{
+
+border-radius: 50%;
+width: 300px;
+height: 200px;
+
+
+
+}
+h1{
+
+font-size: 40px;
+font-family: sans-serif;
+
+}
+#nome{
+font-size: 50px;
+font-family:'Macondo', cursive;;
+}
+h2{
+    font-family:'Kanit', sans-serif;
+font-size: 30px; ;
+font-weight: 300px;
+}
+#bio{
+
+font-family: cursive;
+font-size: 20px;
+margin-top: 250px;
+background-color: rgba(160, 223, 248, 0.5);
+}
+.line{
+height:6px;
+background:black;
+width: 80px;
+margin:8px auto;
+
+}
+.menu{
+margin-top: 0;
+width: 100%;
+padding: 25px;
+position:fixed;
+top:0;
+text-align:center;
+z-index: 9999;
+background-color: white;
+list-style: none;
+cursor:pointer
+}
+.link{
+display:inline;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right:9px ;
+padding-left: 8px;
+font-size: 20px;
+font-family: fantasy;
+
+
+}
+a{
+text-decoration: none;
+
+}
+#quiz{
+ background-color: rgba(160, 223, 248, 0.5);
+
+
+}
+#videos{
+
+ background-color: rgba(160, 223, 248, 0.5);
+}
